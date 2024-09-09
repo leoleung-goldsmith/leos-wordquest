@@ -1,8 +1,8 @@
 # Leo's WordQuest
 
-Unhabit is a mobile application designed to help users break free from unwanted habits and build healthier lifestyles.
+Leo’s WordQuest is a word game that was developed with the use of a mobile device and it aims to offer fun to the players with the simplicity that Runs with It offers with its products. Inspired by the computer games such as Wordle, this project want to make the game fun and entertaining enough so that it can be played in short sessions during breaks. 
 
-This app is built using Expo and React Native, providing a cross-platform solution for iOS and Android devices.
+Considering the fact that nowadays people enjoy games on their mobile devices during traveling or any kind of waiting, “Leo’s WordQuest” will engage a player with the enlightening and productive challenge of a word building quest. The game’s most critical feature of the game is making an educated guess about what word is missing and how, when one is found, it provides the player with an achievement while also helping him or her think about the language in a new way. 
 
 ## Getting Started
 
@@ -24,15 +24,15 @@ This app is built using Expo and React Native, providing a cross-platform soluti
 
 1. Start the app:
 
-```bash
-npm start
-```
+    ```bash
+    npm start
+    ```
 
-or
+    or
 
-```bash
-npx expo start
-```
+    ```bash
+    npx expo start
+    ```
 
 In the Expo Go app or terminal output, you'll find options to open the app on:
 
