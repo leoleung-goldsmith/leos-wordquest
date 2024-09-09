@@ -12,7 +12,7 @@ Considering the fact that nowadays people enjoy games on their mobile devices du
 
    ```bash
    git clone https://github.com/leoleung-goldsmith/leos-wordquest
-   cd unhabit
+   cd leos-wordquest
    ```
 
 2. Install dependencies:
